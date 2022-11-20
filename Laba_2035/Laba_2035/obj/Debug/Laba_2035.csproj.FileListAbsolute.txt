@@ -1,0 +1,13 @@
+C:\ne\Laba_2035\Laba_2035\bin\Debug\Laba_2035.exe.config
+C:\ne\Laba_2035\Laba_2035\bin\Debug\Laba_2035.exe
+C:\ne\Laba_2035\Laba_2035\bin\Debug\Laba_2035.pdb
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.csproj.AssemblyReference.cache
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.csproj.SuggestedBindingRedirects.cache
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.Form1.resources
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.Form2.resources
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.Form3.resources
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.Properties.Resources.resources
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.csproj.GenerateResource.cache
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.csproj.CoreCompileInputs.cache
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.exe
+C:\ne\Laba_2035\Laba_2035\obj\Debug\Laba_2035.pdb
