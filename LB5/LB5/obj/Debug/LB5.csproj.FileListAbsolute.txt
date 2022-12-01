@@ -1,0 +1,11 @@
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\bin\Debug\LB5.exe.config
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\bin\Debug\LB5.exe
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\bin\Debug\LB5.pdb
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.csproj.AssemblyReference.cache
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.csproj.SuggestedBindingRedirects.cache
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.Form1.resources
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.Properties.Resources.resources
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.csproj.GenerateResource.cache
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.csproj.CoreCompileInputs.cache
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.exe
+C:\Users\про\Documents\Labs_WinForm\LB5\LB5\obj\Debug\LB5.pdb
