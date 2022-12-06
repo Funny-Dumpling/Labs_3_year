@@ -1,0 +1,12 @@
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\bin\Debug\DB_Abonents.exe.config
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\bin\Debug\DB_Abonents.exe
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\bin\Debug\DB_Abonents.pdb
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.csproj.AssemblyReference.cache
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.csproj.SuggestedBindingRedirects.cache
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.Form1.resources
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.Form2.resources
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.Properties.Resources.resources
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.csproj.GenerateResource.cache
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.csproj.CoreCompileInputs.cache
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.exe
+C:\Users\про\Documents\Labs_WinForm\DB_Abonents\DB_Abonents\obj\Debug\DB_Abonents.pdb
